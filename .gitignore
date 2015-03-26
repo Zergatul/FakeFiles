@@ -28,5 +28,9 @@ _ReSharper*/
 *.vssscc
 $tf*/
 FakeFiles.opensdf
+<<<<<<< HEAD
 FakeFiles.sdf
 FakeFiles.vcxproj.filters
+=======
+FakeFiles.sdf
+>>>>>>> 0b57b0a510247f28adc77caf5847f3ee9c2d37ad
